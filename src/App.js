@@ -2,7 +2,7 @@ import React from "react"
 import Navbar from "./components/Navbar"
 import Main from "./components/Main"
 
-import "./style.css"
+import "./App.scss"
 
 
 export default function App() {
