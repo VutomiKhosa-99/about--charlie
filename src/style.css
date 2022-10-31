@@ -49,6 +49,14 @@ main {
   
 }
 
+.main--social {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+  
+    padding: 1rem;
+}
+
 .main--title {
     margin: 0;
     font-size: 39px;

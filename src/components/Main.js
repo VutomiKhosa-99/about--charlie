@@ -1,4 +1,5 @@
 import React from "react"
+import { BsFacebook, BsTwitter, BsLinkedin } from "react-icons/Bs"
 
 export default function Main() {
     return (
@@ -27,6 +28,17 @@ export default function Main() {
                 <li>It's an award winning end-to-end custom software development company, thus my experience will be expanded in a big way </li>
     
             </ul>
+
+            <div>
+                <h3>
+                    CONNECT WITH ME
+                </h3>
+            </div>
+            <div className="main--social">
+                <div><BsFacebook /></div>
+                <div><BsTwitter /></div>
+                <div> <BsLinkedin /></div>
+            </div>
             
             <div className="footer--text">
                 <p>@2022 Copyright Charlie Nghondzweni</p>
