@@ -44,22 +44,28 @@ main {
     background-image: url(./images/react-icon-large.png);
     background-repeat: no-repeat;
     background-position: right 75%;
+    margin: auto;
+    width: 85%;
+  
 }
 
 .main--title {
     margin: 0;
     font-size: 39px;
     letter-spacing: -0.05em;
+    
 }
 
 .main--facts {
     margin-top: 20px;
-    max-width: 400px;
+    max-width: 100%;
+    
 }
 
 .main--facts > li {
     line-height: 19px;
     padding-block: 2px;
+    
 }
 
 .main--facts > li::marker {

@@ -7,7 +7,7 @@ export default function Main() {
             <ul className="main--facts">
                 <li>My name is Charlie Nghondzweni</li>
                 <li>I am an aspiring Software Developer, currently doing my Honours in BSc Computer Science</li>
-                <li>I am very passionate about the field of computer science as a whole, cause it llows me to think critically,learn and grow beyond my imaginations</li>
+                <li>I am very passionate about the field of computer science as a whole, because it allows me to think critically,learn and grow beyond my imaginations</li>
                 <li>I consider myself as a hardworker which I have proven through my academics, my achievements in sports, coding projects, side business hustles and charity programmes I ran</li>
                 <li>During my free time I like reading books. The current book I am reading is The Laws of Human Nature by Robert Greene</li>
                 <li>I am a long-distance runner, I obtained position two in provincials competition in the North West province</li>
