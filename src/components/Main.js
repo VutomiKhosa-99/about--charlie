@@ -39,6 +39,9 @@ export default function Main() {
                 <div><BsTwitter /></div>
                 <div> <BsLinkedin /></div>
             </div>
+                <div>
+                    <h3>MY GALLERY</h3>
+                </div>
             
             <div className="footer--text">
                 <p>@2022 Copyright Charlie Nghondzweni</p>
