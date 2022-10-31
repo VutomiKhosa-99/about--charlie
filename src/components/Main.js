@@ -1,5 +1,5 @@
 import React from "react"
-import { BsFacebook, BsTwitter, BsLinkedin } from "react-icons/Bs"
+import { BsFacebook, BsTwitter, BsLinkedin } from "react-icons/bs"
 
 export default function Main() {
     return (
